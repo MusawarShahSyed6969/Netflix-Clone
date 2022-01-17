@@ -24,22 +24,22 @@
          width: 127%;
          position: absolute;
          font-size: 88px;
-         top: 949px;
-         left: -214px;
+         top: 550px;
+         left: -340px;
      }
      
      .Heading_Title_2{
          width: 127%;
          position: absolute;
          font-size: 74px;
-         top: 1173px;
-         left: -215px;
+         top: 795px;
+         left: -332px;
      }
      .Heading_p{
      
          position: absolute;        
-         left: 213px;
-         top: 157%;
+         left: 73px;
+         top: 121%;
          width: 150%;
      }
      
@@ -51,26 +51,26 @@
      
      .Heading_p_title2{
          position: absolute;        
-         left: 271px;
-         top: 163%;
+         left: 142px;
+         top: 128%;
          width: 150%; 
          font-size: 24px;
      }
      #Email{
-     position: absolute;
-     top: 175%;
-     left: -542px;
-     padding:20px 196px;
-     border: 4px solid rgb(0, 0, 0);
+        position: absolute;
+        top: 147%;
+        left: -561px;
+        padding: 6px 75px;
+        border: 4px solid rgb(0, 0, 0);
      }
      #Start_Button{
        
          position: absolute;
          display: flex;
-         top: 204%;
+         top: 174%;
          justify-content: center;
          align-items: center;
-         left: -691px;
+         left: -848px;
          border: 5px solid red;
          width: 50%;
          height: 8.5%;
@@ -79,8 +79,8 @@
      
      .signinbutton{
         position: absolute;
-        left: 53%;
-        background: blue;
+        left: 142%;
+        background: red;
         top: 95px;
         width: 34%;
         height: 5%;
