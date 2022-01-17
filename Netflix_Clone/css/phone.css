@@ -1,0 +1,112 @@
+*{
+    margin: 0%;
+    padding: 0%;
+}
+
+   /* 0 to 375  */
+
+   @media (max-width: 900px) {
+    body {
+      /* background-color: rgb(255, 0, 0); */
+    }
+
+    .navmenu::before{
+        width: 253%;
+        height: 335%;
+     }
+     
+     .netflix_img{
+        width: 37%;
+        height: 56%;
+         
+     }
+     .Heading_Title{
+         width: 127%;
+         position: absolute;
+         font-size: 88px;
+         top: 949px;
+         left: -214px;
+     }
+     
+     .Heading_Title_2{
+         width: 127%;
+         position: absolute;
+         font-size: 74px;
+         top: 1173px;
+         left: -215px;
+     }
+     .Heading_p{
+     
+         position: absolute;        
+         left: 213px;
+         top: 157%;
+         width: 150%;
+     }
+     
+     #Email::placeholder{
+         font-size: 1.5rem;
+         text-align: center;
+         /* margin-left: 255px; */
+     }
+     
+     .Heading_p_title2{
+         position: absolute;        
+         left: 271px;
+         top: 163%;
+         width: 150%; 
+         font-size: 24px;
+     }
+     #Email{
+     position: absolute;
+     top: 175%;
+     left: -542px;
+     padding:20px 196px;
+     border: 4px solid rgb(0, 0, 0);
+     }
+     #Start_Button{
+       
+         position: absolute;
+         display: flex;
+         top: 204%;
+         justify-content: center;
+         align-items: center;
+         left: -691px;
+         border: 5px solid red;
+         width: 50%;
+         height: 8.5%;
+         text-align: center;
+     }
+     
+     .signinbutton{
+        position: absolute;
+        left: 53%;
+        background: blue;
+        top: 95px;
+        width: 34%;
+        height: 5%;
+     }
+     .signinbutton a{
+        font-size: 1rem;
+     }
+     
+     #Column_2{
+         display: none;
+     }
+     #Column_3{
+         display: none;
+     }
+     #Column_4{
+         display: none;
+     }
+     #Column_5{
+         display: none;
+     }
+     
+     .footer_text{
+         display: none;
+     }
+     #footer{
+         display: none;
+     }
+
+  }
