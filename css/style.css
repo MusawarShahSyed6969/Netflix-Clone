@@ -62,15 +62,18 @@
     font-size: 4rem;
     width: 50%;
     margin: -20px 500px;
+    
 }
 .Heading_p{
-
+    margin-top: 35px;
     margin-left: 53px;
     font-size: 1.5rem;
     font-family: 'Roboto', sans-serif;        
 }
 
 #Email{
+    position: absolute;
+    top: 50%;
     margin-left: 635px;
     display: inline-block;
     width: 417px;
@@ -89,6 +92,8 @@
     padding: 10px 10px;
      margin: -71px 1122px;
      display: flex;  
+     position: absolute;
+     top: 58%;
 
    
 }
