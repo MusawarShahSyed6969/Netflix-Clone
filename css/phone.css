@@ -219,7 +219,7 @@
     #Column_5 .Heading_p{
     position: absolute;
     padding: 25px -205px;
-    top: 563%;
+    top: 564%;
     left: 67%;
     font-size: 25px;
     font-family: netflix-sans-regular2;
@@ -230,7 +230,7 @@
     #Column_5 .Heading_p2{
     position: absolute;
     padding: 25px -205px;
-    top: 568%;
+    top: 570%;
     left: 66%;
     font-size: 25px;
     font-family: netflix-sans-regular2;
@@ -241,7 +241,7 @@
     #Column_5 .Heading_p3{
     position: absolute;
     padding: 25px -205px;
-    top: 572%;
+    top: 577%;
     left: 66%;
     font-size: 25px;
     font-family: netflix-sans-regular2;
@@ -251,7 +251,7 @@
 
     .tv_image_3 {
      position: absolute;
-     top: 582%;
+     top: 590%;
      left: 65%;
      width: 150%;
 
@@ -264,7 +264,7 @@
     height: 110%;
     position: absolute;
     background-color: black;
-    z-index: -2;
+    z-index: -1;
     bottom: -487.8%;
     left: 0%;
         border-bottom: 8 pxsolid #222222;
