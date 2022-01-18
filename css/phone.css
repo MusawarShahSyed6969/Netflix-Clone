@@ -128,34 +128,65 @@
         width: 150%;
      }
 
+     
+     /* Column_3 */
+     
+     
+     #Column_3 .Heading_Title{
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-     #Column_3{
-         display: none;
+        position: absolute;
+        top: 380%; 
+        left: -125%; 
      }
+
+
+     #Column_3 p{
+        position: absolute;
+        top: 397%;
+        width: 310  px;
+        left: -378px;
+        
+    }
+
+    .tv_image_2{
+        position: absolute;
+        top: 451%;
+        left: 13%;
+        width: 150%;
+     }
+
+     #Column_3::before {
+        content: "";
+        width: 252%;
+        height: 131%;
+        position: absolute;
+        background-color: black;
+        z-index: -1;
+        bottom: -355.8%;
+        left: 0%;
+        border-bottom: 8 pxsolid #222222;
+    }
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
      #Column_4{
          display: none;
      }
