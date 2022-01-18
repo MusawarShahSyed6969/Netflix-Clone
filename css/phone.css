@@ -7,7 +7,7 @@
 
    @media (max-width: 900px) {
     body {
-      /* background-color: rgb(255, 0, 0); */
+      /* background-color: black; */
     }
 
     .navmenu::before{
@@ -89,13 +89,70 @@
      .signinbutton a{
         font-size: 1rem;
      }
+
+        /* Column 2 */
+
      
      #Column_2 .Heading_Title{
 
         position: absolute;
-        top: 50%;
+        top: 280%; 
+        left: -37%; 
+     }
+
+
+     #Column_2::before {
+        content: "";
+        width: 252%;
+        height: 102%;
+        position: absolute;
+        background-color: black;
+        z-index: -1;
+        bottom: -253.8%;
+        left: 0%;
+        border-bottom: 8 pxsolid #222222;
+    }
+
+     #Column_2 p{
+         position: absolute;
+         top: 290%;
+         left: -170px;
          
      }
+
+     .tv_image{
+
+        position: absolute;
+        top: 324%;
+        left: 30%;
+        width: 150%;
+     }
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
      #Column_3{
          display: none;
      }
