@@ -209,9 +209,10 @@
 
     #Column_5 .Heading_Title{
       position: absolute;
-      top: 548%;
+      top: 558%;
        left: 62%;
        width: 156%;
+       color: white;
 
     }
 
@@ -219,20 +220,22 @@
     #Column_5 .Heading_p{
     position: absolute;
     padding: 25px -205px;
-    top: 564%;
+    top: 570%;
     left: 67%;
     font-size: 25px;
     font-family: netflix-sans-regular2;
     margin: 1px 35px;
     width: 141%;
+    color: white;
     }
 
     #Column_5 .Heading_p2{
     position: absolute;
     padding: 25px -205px;
-    top: 570%;
+    top: 575%;
     left: 66%;
     font-size: 25px;
+    color: white;
     font-family: netflix-sans-regular2;
     margin: 1px 35px;
     width: 141%;
@@ -241,7 +244,8 @@
     #Column_5 .Heading_p3{
     position: absolute;
     padding: 25px -205px;
-    top: 577%;
+    top: 580%;
+    color: white;
     left: 66%;
     font-size: 25px;
     font-family: netflix-sans-regular2;
@@ -251,7 +255,7 @@
 
     .tv_image_3 {
      position: absolute;
-     top: 590%;
+     top: 595%;
      left: 65%;
      width: 150%;
 
@@ -259,7 +263,7 @@
 
 
     #Column_5::before {
-        content: "";
+  content: "";
     width: 252%;
     height: 110%;
     position: absolute;
@@ -267,7 +271,7 @@
     z-index: -1;
     bottom: -487.8%;
     left: 0%;
-        border-bottom: 8 pxsolid #222222;
+     border-bottom: 8 pxsolid #222222;
     }
 
 
