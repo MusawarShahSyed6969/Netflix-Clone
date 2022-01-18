@@ -123,9 +123,10 @@
      .tv_image{
 
         position: absolute;
-        top: 324%;
+        top: 319%;
         left: 30%;
         width: 150%;
+        height: 39%;
      }
 
      
@@ -150,9 +151,10 @@
 
     .tv_image_2{
         position: absolute;
-        top: 451%;
-        left: 13%;
+        top: 455%;
+        left: 19%;
         width: 150%;
+        
      }
 
      #Column_3::before {
