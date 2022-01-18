@@ -25,7 +25,7 @@
          position: absolute;
          font-size: 88px;
          top: 550px;
-         left: -340px;
+         left: -256px;
      }
      
      .Heading_Title_2{
@@ -33,32 +33,32 @@
          position: absolute;
          font-size: 74px;
          top: 795px;
-         left: -332px;
+         left: -256px;
      }
      .Heading_p{
      
          position: absolute;        
-         left: 73px;
-         top: 123%;
+         left: 148px;
+         top: 108%;
          width: 150%;
      }
      
+     .Heading_p_title2{
+         position: absolute;        
+         left: 200px;
+         top: 117%;
+         width: 150%; 
+         font-size: 24px;
+     }
      #Email::placeholder{
          font-size: 1.5rem;
          text-align: center;
      }
      
-     .Heading_p_title2{
-         position: absolute;        
-         left: 142px;
-         top: 133%;
-         width: 150%; 
-         font-size: 24px;
-     }
      #Email{
         position: absolute;
         top: 147%;
-        left: -561px;
+        left: -350px;
         padding: 6px 75px;
         border: 4px solid rgb(0, 0, 0);
         background: black;  
@@ -70,7 +70,7 @@
          top: 174%;
          justify-content: center;
          align-items: center;
-         left: -848px;
+         left: -704px;
          border: 5px solid red;
          width: 50%;
          height: 8.5%;
