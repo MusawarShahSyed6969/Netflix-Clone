@@ -196,7 +196,7 @@
         height: 50%;
         position: absolute;
         background-color: black;
-        z-index: -2;
+        z-index: -3;
         bottom: -376.8%;
         left: 0%
         border-bottom: 8px solid black;
