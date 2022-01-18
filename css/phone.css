@@ -12,7 +12,8 @@
 
     .navmenu::before{
         width: 253%;
-        height: 250%;
+        height: 241%;
+        z-index: -1;
      }
      
      .netflix_img{
@@ -107,7 +108,7 @@
         height: 110%;
         position: absolute;
         background-color: black;
-        z-index: -1;
+        z-index: -2;
         bottom: -253.8%;
         left: 0%;
         border-bottom: 8 pxsolid #222222;
@@ -160,10 +161,10 @@
      #Column_3::before {
         content: "";
         width: 252%;
-        height: 140%;
+        height: 145%;
         position: absolute;
         background-color: black;
-        z-index: -2;
+        z-index: -3;
         bottom: -355.8%;
         left: 0%;
         border-bottom: 8px solid #222222;
@@ -193,10 +194,10 @@
     #Column_4::before {
         content: "";
         width: 252%;
-        height: 50%;
+        height: 55%;
         position: absolute;
         background-color: black;
-        z-index: -3;
+        z-index: -4;
         bottom: -376.8%;
         left: 0%
         /* border-bottom: 8px solid black; */
