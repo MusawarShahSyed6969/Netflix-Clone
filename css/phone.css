@@ -173,15 +173,15 @@
 
     #Column_4 .Heading_Title{
         position: absolute;
-         top: 492%;  
-        left: 62%;  
+        top: 507%;
+        left: 62%;
         
     }
 
     #Column_4 p{
     position: absolute;
     padding: 25px -205px;
-    top: 505%;
+    top: 519%;
     font-size: 32px;
     font-family: netflix-sans-regular2;
     left: 64%;
@@ -193,14 +193,16 @@
     #Column_4::before {
         content: "";
         width: 252%;
-        height: 39%;
+        height: 50%;
         position: absolute;
         background-color: black;
         z-index: -2;
-        bottom: -365.8%;
-        left: 0%;
-        border-bottom: 8px solid #222222;
+        bottom: -376.8%;
+        left: 0%
+        border-bottom: 8px solid black;
     }
+
+   
 
 
 
