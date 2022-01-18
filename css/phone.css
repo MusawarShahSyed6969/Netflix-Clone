@@ -283,6 +283,7 @@
      left: 126%;
     top: 660%;
     width: 198px; 
+    color: white;
     }
     #footer::before{
         content: "";
