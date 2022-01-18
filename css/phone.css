@@ -274,11 +274,49 @@
      border-bottom: 8 pxsolid #222222;
     }
 
-
     
+    
+    /* Footer */
+    
+    
+    .footer_text{
+     left: 126%;
+    top: 660%;
+    width: 198px; 
+    }
+    #footer::before{
+        content: "";
+        position: absolute;
+        background: black;
+        height: 20%;
+        top: 647.5%;
+        left: 0%;
+        width: 252%;
+        z-index: -1;
+    }
 
 
-  
+    .followmeon_facebook{
+        width: 9%;
+        height: 4%;
+        top: 652%;
+        left: 139%;
+        
+     }
+      .followmeon_linkden{
+        width: 9%;
+        height: 4%;
+        top: 652%;
+        left: 56%;
+         
+      }
+      .followmeon_github{
+        width: 9%;
+        height: 4%;
+        top: 652%;
+        left: 205%;
+         
+      }
 
 
 
@@ -296,11 +334,5 @@
 
     
      
-     .footer_text{
-         display: none;
-     }
-     #footer{
-         display: none;
-     }
 
   }
