@@ -12,7 +12,7 @@
 
     .navmenu::before{
         width: 253%;
-        height: 335%;
+        height: 250%;
      }
      
      .netflix_img{
@@ -47,6 +47,7 @@
          position: absolute;        
          left: 200px;
          top: 170%;
+         font-family: netflix-sans-regular2;
          width: 150%; 
          font-size: 24px;
      }
@@ -57,9 +58,9 @@
      
      #Email{
         position: absolute;
-        top: 213%;
+        top: 202%;
         left: -450px;
-        padding: 6px 75px;
+        padding: 6px 100px;
         border: 4px solid rgb(0, 0, 0);
         background: black;  
      }
@@ -89,8 +90,11 @@
         font-size: 1rem;
      }
      
-     #Column_2{
-         display: none;
+     #Column_2 .Heading_Title{
+
+        position: absolute;
+        top: 50%;
+         
      }
      #Column_3{
          display: none;
