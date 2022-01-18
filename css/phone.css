@@ -160,7 +160,7 @@
      #Column_3::before {
         content: "";
         width: 252%;
-        height: 134%;
+        height: 140%;
         position: absolute;
         background-color: black;
         z-index: -2;
@@ -199,7 +199,7 @@
         z-index: -3;
         bottom: -376.8%;
         left: 0%
-        border-bottom: 8px solid black;
+        /* border-bottom: 8px solid black; */
     }
 
    
